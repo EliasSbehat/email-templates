@@ -1,0 +1,130 @@
+{
+    "config": {
+        "subject": "daily unjumble: updates from Chainlink, beeple, #CryptoNews and more!",
+        "urls": {
+            "updatePreferences": "https://form.typeform.com/to/TBJm1yiS#email=rosy@artscale.ai",
+            "twitter": "https://twitter.com/twitter",
+            "discord": "https://discord.com/invite",
+            "website": "unjmuble.xyz",
+            "unsubscribe": "UNSUBSCRIBE_URL",
+            "subscribe": "SUBSCRIBE_URL",
+            "customise_wallet": "COSTUMISE_URL",
+            "customise_communities": "COSTUMISE_URL",
+            "customise_interests": "COSTUMISE_URL",
+            "feedback": "FEEDBACK_URL",
+            "errors": "ERRORS_URL"
+        },
+        "introHeader": "Welcome to your daily unjumble",
+        "introText": "Hey you! Make sure you're customising your preferences at the bottom of this email - track your favourite web3 communities and interests in one spot! Now go enjoy this Friday :)",
+        "subscribedList": "DystopAI, Terramochi, beeple, Chainlink, #CryptoNews, #NFTs",
+        "todayDate": "Friday, 28th April 2023",
+        "userAddress": "rosy@artscale.ai",
+        "topRight": "<a target='_blank' style='color:#4343f6;font-weight: 600;' href='https://www.unjumble.xyz/referral-hub#referral_code=byvzQa'>Win prizes by referring!</a>"
+    },
+    "modules": {
+        "highlights": {
+            "heading": "This week summarised by AI",
+            "subheadingElements": [
+                {
+                    "subheading": "Subheading #1",
+                    "items": [
+                        {
+                            "content": "<a target='_blank' style='color:#4343f6;font-weight: 600;' href='https://twitter.com/twitter/status/1658935073524137988'>Grayscale Investments</a> revealed that the U.S. Securities and Exchange Commission (SEC) considers the Filecoin token $FIL might be a security."
+                        },
+                        {
+                            "content": "Coinbase's announcement of its intention to contest the SEC's potential enforcement action could force court rulings that define how the cryptocurrency industry can move forward, as the SEC's move could foreshadow an effort to break the back of the crypto sector as it now operates, according to CoinDesk's Jesse Hamilton."
+                        }
+                    ]
+                },
+                {
+                    "subheading": "Subheading #2",
+                    "items": [
+                        {
+                            "content": "ARK Invest, Cathie Wood's hedge fund, bought $17.7 million worth of Coinbase (COIN) shares amid a slump due to a pending SEC action, after selling 160,887 shares for $13.5 million when the stock was $83 per share."
+                        },
+                        {
+                            "content": "Coinbase's announcement of its intention to contest the SEC's potential enforcement action could force court rulings that define how the cryptocurrency industry can move forward, as the SEC's move could foreshadow an effort to break the back of the crypto sector as it now operates, according to CoinDesk's Jesse Hamilton."
+                        }
+                    ]
+                }
+            ]
+        },
+        "postModule": [
+            {
+                "name": "Chainlink",
+                "posts": [
+                    {
+                        "url": "https://twitter.com/twitter/status/1638968345419546625",
+                        "image": "https://storage.googleapis.com/unjumble-cache/dailyunjumble/owfakdfoiiurwnz.png",
+                        "alt": "Screenshot of tweet with ID https://twitter.com/twitter/status/1638968345419546625"
+                    }
+                ]
+            },
+            {
+                "name": "beeple",
+                "posts": [
+                    {
+                        "url": "https://twitter.com/twitter/status/1638875195938070528",
+                        "image": "https://storage.googleapis.com/unjumble-cache/dailyunjumble/kkjraphesofhoot.png",
+                        "alt": "Screenshot of tweet with ID https://twitter.com/twitter/status/1638875195938070528"
+                    },
+                    {
+                        "url": "https://twitter.com/twitter/status/1639074650562109440",
+                        "image": "https://storage.googleapis.com/unjumble-cache/dailyunjumble/ssbizbbwdkyfrjb.png",
+                        "alt": "Screenshot of tweet with ID https://twitter.com/twitter/status/1639074650562109440"
+                    }
+                ]
+            }
+        ],
+        "bulletModule": [
+            {
+                "name": "#CryptoNews - today's AI summary",
+                "items": [
+                    {
+                        "content": "<a target='_blank' style='color:#4343f6;font-weight: 400;' href='https://twitter.com/twitter/status/1658935073524137988'>Grayscale Investments</a> revealed that the U.S. Securities and Exchange Commission (SEC) considers the Filecoin token $FIL might be a security."
+                    },
+                    {
+                        "content": "Coinbase's announcement of its intention to contest the SEC's potential enforcement action could force court rulings that define how the cryptocurrency industry can move forward, as the SEC's move could foreshadow an effort to break the back of the crypto sector as it now operates, according to CoinDesk's Jesse Hamilton."
+                    },
+                    {
+                        "content": "<a href='https://twitter.com/twitter/status/1658935073524137988'>Grayscale Investments</a> revealed that the U.S. Securities and Exchange Commission (SEC) considers the Filecoin token $FIL might be a security."
+                    }
+                ]
+            },
+            {
+                "name": "#NFTs - today's AI summary",
+                "items": [
+                    {
+                        "content": "OpenSea announces the exclusive public drop of Grumbies NFT, adorable creatures that add to your collection, happening within an hour."
+                    },
+                    {
+                        "content": "@VanFalk_ believes strongly that Disney's pathway to the blockchain is not through Disney+ but through the theme parks, according to Overpriced JPEGs on Twitter, with a link to a related podcast."
+                    },
+                    {
+                        "content": "NFTstatistics.eth presents some charts on holders who have accumulated huge positions on Blur, potentially for farming purposes."
+                    }
+                ]
+            }
+        ],
+        "youMightLikeModule": {
+            "heading": "You might like...",
+            "hyperlink": "https://twitter.com/0xigami/status/1638948565837029377?s=20",
+            "img": "https://storage.googleapis.com/unjumble-cache/dailyunjumble/nwiltqatnfzkafm.png",
+            "text": "This is a great take on how we aggregate disparate sources of information... If any Nouns community members want to chat and give feedback on how we can be helpful, just DM us or reply back to this email."
+        },
+        "shareModule": {
+            "heading": "Invite friends; win prizes",
+            "text": "Share newsletter with your friends for a chance to win rewards.",
+            "hyperlink": "exampleurl.com",
+            "referrals": 5,
+            "next_prize_count": 2
+        },
+        "feedbackModule": {
+            "heading": "Tell us how we're doing",
+            "text": "We're constantly improving our digest and we want to hear from you. What do you love? What could we improve? All feedback is appreciated.",
+            "positiveLink": "examplelink1.com",
+            "neutralLink": "examplelink2.com",
+            "negativeLink": "examplelink3.com"
+        }
+    }
+}
